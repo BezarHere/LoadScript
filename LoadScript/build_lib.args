@@ -1,0 +1,18 @@
+"E:\Assets\visual studio\LoadScript\LoadScript\src"
+"E:\Assets\CppLibs\LoadScript\include"
+-lib64d
+"E:\Assets\visual studio\LoadScript\Win32\Debug\LoadScript.lib"
+"E:\Assets\CppLibs\LoadScript\lib\lib64-d.lib"
+/c
+-lib64
+"E:\Assets\visual studio\LoadScript\Win32\Debug\LoadScript.lib"
+"E:\Assets\CppLibs\LoadScript\lib\lib64.lib"
+/c
+lib32d
+"E:\Assets\visual studio\LoadScript\Win32\Debug\LoadScript.lib"
+"E:\Assets\CppLibs\LoadScript\lib\lib32-d.lib"
+/c
+-lib32
+"E:\Assets\visual studio\LoadScript\Win32\Debug\LoadScript.lib"
+"E:\Assets\CppLibs\LoadScript\lib\lib32.lib"
+/c
